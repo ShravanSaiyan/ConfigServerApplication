@@ -4,7 +4,7 @@ gateway:
 
 token:
   expiration_time: 86400000  # 1 days
-  secret: rgro133ojijn355
+  secret: rgro133ojijn354
 login:
   url:
     path: /users/login
